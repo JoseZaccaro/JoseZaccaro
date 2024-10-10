@@ -1,15 +1,16 @@
 <h1 align="center">Hola 👋  soy José Zaccaro ✨ </h1> 
 
 <p align="left">
-  <a href="https://linkedin.com/in/jose-zaccaro" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="josezaccaro"/></a>
-  <a href = "mailto:a.zaccaro42@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@josezaccaro"  /></a>
+  <a href="https://linkedin.com/in/jose-zaccaro" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="josezaccaro"/></a>
+  <a href = "mailto:a.zaccaro42@gmail.com" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@josezaccaro"  /></a>
+  <a href="https://www.digital-forge.com.ar/" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="digital-forge"/></a>
 </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 FUTURO INGENIERO EN SISTEMAS
+🎓 INGENIERO EN SISTEMAS EN PROCESO ⚒️
 
 💻 un par de años de experiencia en el proceso de desarrollo de software (solo voy a decir que más de 3 😂)
 
