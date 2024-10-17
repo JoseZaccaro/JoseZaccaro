@@ -18,18 +18,37 @@
 
 📝 roles en el ámbito: desarrollador... mentor... profesor... líder... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **a.zaccaro42@gmail.com**
+📫 Contactemos!
+
+Email: **a.zaccaro42@gmail.com**
+
+Discord: **Lopez Zaccaro Jose#1000**
+
+LinkedIn: **[/in/jose-zaccaro](https://linkedin.com/in/jose-zaccaro)**
+
 <!--Intro end-->
   </p>
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,vite,react,redux,express,prisma,nestjs,nextjs,mongodb,mysql,postgres,sqlite,firebase,figma,git,github,gitlab,docker,tailwind,materialui,styledcomponents,bootstrap,postman,vscode,powershell,windows,bash,linux,androidstudio,go,java,spring,py,flask,django,md&perline=12" />
-  </a>
-</p>
+<h3 id="frontend">Frontend</h3>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,html,css,vite,npm,react,redux,styledcomponents,nextjs,reactivex&amp;perline=7" alt="Frontend"></a></p>
+<h3 id="design-frameworks">Design Frameworks</h3>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui&amp;perline=7" alt="Design Frameworks"></a></p>
+<h3 id="backend">Backend</h3>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,deno,npm,babel,webpack,nest,express,sequelize,prisma,java,spring,go,py,flask,django&amp;perline=7" alt="Backend"></a></p>
+<h3 id="dbms-s">DBMS&#39;s</h3>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite&amp;perline=7" alt="DBMS&#39;s"></a></p>
+<h3 id="deployment">Deployment</h3>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,firebase,gcp,cloudflare,heroku,netlify&amp;perline=7" alt="Deployment"></a></p>
+<h3 id="testing">Testing</h3>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jest,cypress,selenium&amp;perline=7" alt="Testing"></a></p>
+<h3 id="versioning-tools">Versioning Tools</h3>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,gitlab&amp;perline=7" alt="VersioningTools"></a></p>
+<h3 id="other-tools">Other Tools</h3>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,vscode,idea,androidstudio,discord,notion,figma,docker,postman,markdown,powershell,linux,ubuntu,bash&amp;perline=7" alt="Tools"></a></p>
+
 <br>
 <!-------------------------->
 
